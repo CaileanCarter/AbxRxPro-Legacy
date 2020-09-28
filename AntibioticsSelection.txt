@@ -1,0 +1,34 @@
+All antibiotics which a resistance gene was detected to confer resistance for from all isolates:
+Pulvomycin
+acridine dye
+aminocoumarin
+aminoglycoside
+benzalkonium chloride
+carbapenem
+cephalosporin
+cephamycin
+diaminopyrimidine
+elfamycin
+emrE
+fluoroquinolone
+fosfomycin
+glycylcycline
+lincosamide
+macrolide
+monobactam
+nitrofuran
+nitrofurantoin
+nitroimidazole
+nucleoside
+penam
+penem
+peptide
+phenicol
+pleuromutilin
+rhodamine
+rifamycin
+streptogramin
+sulfonamide
+sulfone
+tetracycline
+triclosan
